@@ -46,3 +46,5 @@ Find most similar users
 Calculate predicted ratings for unrated products
 
 Return top 3 highest predicted products
+
+![Image](https://github.com/user-attachments/assets/9268cee7-1b96-4fba-8e9a-2ce6d87012f7)
